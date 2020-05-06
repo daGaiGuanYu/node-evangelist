@@ -3,7 +3,7 @@
 ### 启动看看
 
 ##### 环境准备
-+ 首先安装个 [node](https://nodejs.org/zh-cn/)（用来运行 js 代码）
++ 首先安装个 [node](https://nodejs.org/zh-cn/)，用来运行 js 代码
 + 还得有个 [git](https://git-scm.com/)，用来拉取本仓库
 
 ##### 下载此 demo 项目
