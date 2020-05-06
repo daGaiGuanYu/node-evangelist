@@ -29,4 +29,4 @@ npm run dev # 运行项目
 好了，打开浏览器 访问 localhost:8666
 
 ### 源码
-就[这几行代码]
+就[这几行代码](https://github.com/daGaiGuanYu/node-evangelist/blob/master/src/index.js)
