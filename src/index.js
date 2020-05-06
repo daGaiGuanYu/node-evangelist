@@ -21,7 +21,7 @@ Chopstick.server.start(8666)
 
 /**
  * 添加一个处理请求的函数
- * 第一个参数是“处理哪个请求？”
+ * 前两个参数是“处理哪个请求？”（get 方法，/hello 路径）
  * 第二个参数（函数也可以是其他函数的参数），怎么处理这个请求
  */
 Chopstick.router.add('GET', '/hello', function(ctx){
